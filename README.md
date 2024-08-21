@@ -1,6 +1,6 @@
 # “Othering” through War: Depiction of Asians/Asian Americans in U.S. History Textbooks
 
-Authors: Minju Choi, Li Lucy, Patricia Bromley, and David Bamman
+Authors: Minju Choi*, Li Lucy*, Patricia Bromley, and David Bamman
 
 Contact for code in this repository: Lucy Li (lucy3_li at berkeley dot edu)
 
